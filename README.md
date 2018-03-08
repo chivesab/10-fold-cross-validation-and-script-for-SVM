@@ -13,12 +13,11 @@ Step1. mkfold.sh
     
 Step2. job_list_all.py
     
-    create file job_list_all.txt, if job completes, change state of that job into 'c', if job is incomplete, mark it as 'i', if job is running,
-    get its job-id and updates it in the job_list_all.txt
+    create file job_list_all.txt, if job completes, change state of that job into 'c', if job is incomplete, mark it as 'i', if job is   running,get its job-id and updates it in the job_list_all.txt
 
 Step3. fetch.py
    
-   get the job-id which is running and record them.
+    get the job-id which is running and record them.
     
 Step4. count_label.py
     
