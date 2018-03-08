@@ -1,7 +1,8 @@
-# Ten-fold-cross-validation-and-script_SVM
----------------------------------------
+# 10-fold-cross-validation-and-script fo SVM
+
+
 Yu-Che Lin @ National Taiwan University
----------------------------------------
+
 
 ----------------------------------------
  Preprocessing
