@@ -1,6 +1,6 @@
 # Ten-fold-cross-validation-and-script_SVM
 ---------------------------------------
-Yu-Che Lin @ National Taiwan University
+# Yu-Che Lin @ National Taiwan University
 ---------------------------------------
 
 ----------------------------------------
@@ -21,9 +21,9 @@ Step4. count_label.py
     check which label is chnaged from 1 to -1 due to the proprecessing step ( fix labeling preprocess )
     
     
-## =========================================
-## SVM script for 10-fold cross validation
-## =========================================
+# =========================================
+# SVM script for 10-fold cross validation
+# =========================================
 
 
 Step1. batch_SVM_condor_fold1.sh 
@@ -40,6 +40,6 @@ Step2. script_SVM_all.sh
 
 
 
-## ============================================
-## Too huge to train ---> sampling 
-## ============================================
+# ============================================
+# Too huge to train ---> sampling 
+# ============================================
