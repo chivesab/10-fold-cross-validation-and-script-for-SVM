@@ -1,11 +1,11 @@
 # Ten-fold-cross-validation-and-script_SVM
-=============================================================
+---------------------------------------
 Yu-Che Lin @ National Taiwan University
-=============================================================
+---------------------------------------
 
-## ========================================
-## Preprocessing
-## ========================================
+----------------------------------------
+ Preprocessing
+----------------------------------------
 
 Step1. mkfold.sh
     call mkfold.py, make data into ten fold has average positive and negative labels.
@@ -20,10 +20,11 @@ Step3. fetch.py
 Step4. count_label.py
     check which label is chnaged from 1 to -1 due to the proprecessing step ( fix labeling preprocess )
     
-    
+    
 ## =========================================
 ## SVM script for 10-fold cross validation
 ## =========================================
+
 
 Step1. batch_SVM_condor_fold1.sh 
     (a). This script will write a all_${month}_fold1.sh , which call eval_SVM_fold1.sh script to use SVM
