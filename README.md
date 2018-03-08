@@ -10,7 +10,7 @@ Yu-Che Lin @ National Taiwan University
 
 Step1. mkfold.sh
     
-    call mkfold.py, make data into ten fold has average positive and negative labels.
+    python mkfold.py, make data into ten fold has average positive and negative labels.
     
 Step2. job_list_all.py
     
