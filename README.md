@@ -1,4 +1,4 @@
-# 10-fold-cross-validation-and-script fo SVM
+# 10-fold cross-validation and script for SVM
 
 
 Yu-Che Lin @ National Taiwan University
